@@ -1,3 +1,4 @@
+<!-- Cloud Fundementals -->
 # Cloud Fundamentals
 
 This repository contains all the details related to my journey at I Net Software Technologies Inc., my OPT employer, where I was learning the fundamentals of different types of cloud, such as Azure and AWS. 
@@ -21,3 +22,9 @@ how spark jobs work in real.
 <IMAGE src="Images/Delivery & Options.png" width="1200" />
 <IMAGE src="Images/Product & Inventory I.png" width="1200" />
 <IMAGE src="Images/Product & Inventory II.png" width="1200" />
+
+<!-- AWS -->
+# AWS 
+After I'm done with the BI part, I move to AWS. This is where I have learned about Amazon SageMaker, Amazon Bedrock, AWS Lex, creating user groups, roles and assigning policies to them. Along with those, I also brush up my skills with AWS Lambda, Glue, Knowledge bases, S3 buckets, and EC2 instances. I then prepared for my AWS Certified AI Practitioner Certification for 2 weeks and finally got certified. In this process, I created a *Banker Bot* that assists users with small-level queries and doubts. 
+
+
