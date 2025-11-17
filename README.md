@@ -10,4 +10,9 @@ This repository contains all the details related to my journey at I Net Software
 - We then transformed this ingested data into Databricks notebooks through Dataflow Gen 2 or directly in the Lakehouse, depending on the problem statement, to see how things work for different scenarios. I had to learn a new scripting language, Spark, in the journey to support my transformation processes, which helped me to understand further about large datasets and 
 how spark jobs work in real.
 
-3) Then, I was introduced to Power BI. Even though I have prior knowledge and experience with Power BI, I have only been involved in creating measures and visuals using small datasets for mini projects. But when I used the resources at I Net and went through different training modules, along with some real-world scenarios, e.g., creating security roles, working with compliant datasets, certifying data models in workspaces, using the Power BI service, etc. With all the knowledge and expertise I gained in these two weeks, I created a BlinkIt dashboard that explains the Sales, Performance, Marketing, Operations and Finance related requirements received from my supervisor as the end project. 
+3) Then, I was introduced to Power BI. Even though I have prior knowledge and experience with Power BI, I have only been involved in creating measures and visuals using small datasets for mini projects. But when I used the resources at I Net and went through different training modules, along with some real-world scenarios, e.g., creating security roles, working with compliant datasets, certifying data models in workspaces, using the Power BI service, etc. With all the knowledge and expertise I gained in these two weeks, I created a *Blinkit Sales Dashboard* that explains the Sales, Performance, Marketing, Operations and Finance related requirements received from my supervisor as the end project. 
+
+<!-- Blinkit Sales Dashboard -->
+# Blinkit Sales Dashboard
+
+
