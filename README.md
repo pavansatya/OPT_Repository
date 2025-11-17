@@ -15,4 +15,9 @@ how spark jobs work in real.
 <!-- Blinkit Sales Dashboard -->
 # Blinkit Sales Dashboard
 
-
+<IMAGE src="Images/Sales & Orders.png" width="1200" />
+<IMAGE src="Images/Customers & Feedback.png" width="1200" />
+<IMAGE src="Images/Marketing Performance.png" width="1200" />
+<IMAGE src="Images/Delivery & Options.png" width="1200" />
+<IMAGE src="Images/Product & Inventory I.png" width="1200" />
+<IMAGE src="Images/Product & Inventory II.png" width="1200" />
